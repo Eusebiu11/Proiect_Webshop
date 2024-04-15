@@ -1,2 +1,2 @@
-# Proiect_Webshop
-Proiect individual curs testare software
+# Webshop_project
+Manual testing individual project
