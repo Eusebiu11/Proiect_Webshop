@@ -1,2 +1,2 @@
 # Webshop_project
-Manual testing individual project
+Manual software testing individual project
